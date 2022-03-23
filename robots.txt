@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://shorecleansolutions.com/sitemap.xml
